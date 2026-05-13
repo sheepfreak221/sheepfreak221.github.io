@@ -90,13 +90,6 @@ Vier Missionen mit steigendem Schwierigkeitsgrad. Die Teilnehmenden arbeiten eig
 | CLI Tools     | `curl`, `git`, `htop` …      					 |
 | Programmierung	| VS Code, Geany, Bluefish, Python						|
 
-**Systemzugang:**
-
-| Benutzer | Passwort |
-|---|---|
-| workshop | workshop |
-| root | workshop |
-
 **Plattformunterstützung:**
 - Windows 10/11 Pro, Education, Enterprise (mit WHPX)
 - Linux (mit KVM)
