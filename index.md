@@ -1,4 +1,4 @@
-# Workshop zu KI, Programmierung, Linux, Datenschutz und Social Media
+# Workshop zu FOSS, Datenschutz, KI und Social Media
 
 ## Ein fertiges Unterrichtspaket für die Oberstufe
 
